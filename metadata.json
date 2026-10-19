@@ -1,0 +1,6 @@
+{
+  "name": "Analista de Seguros CR",
+  "description": "Herramienta de análisis y extracción técnica de propuestas de seguro voluntario de automóvil en Costa Rica según normas de correduría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
